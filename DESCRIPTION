@@ -1,0 +1,10 @@
+Package: BinomiRare
+Type: Package
+Title: Test the association of rare variants with a disease
+Version: 1.0
+Date: 2016-10-06
+Author: Tamar Sofer
+Maintainer: Tamar Sofer <tsofer@uw.edu>
+Description: Given estimated probabilities of disease obtained from an entire sample, for each rare variant it tests whether the number of diseased individuals is consistent with the expected number of diseased individuals. It performs meta-analysis across several studies as well. 
+License: GPL-2
+Imports: poibin
